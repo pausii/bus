@@ -1,0 +1,126 @@
+<template>
+    <section id="fasilitas" class="mt-5">
+      <div class="container">
+        <div class="row wow animate__animated animate__fadeIn">
+          <div class="col-lg-7 mx-auto text-center mb-4">
+            <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-3">FASILITAS KAMI</h5>
+            <p class="mb-5">Demi kenyamanan dan kenyamanan penumpang kami menyediakan beberapa fasiltas diantaranya
+            </p>
+          </div>
+        </div>
+        <div class="row flex-center h-100 fasilitas">
+          <div class="col-xl-9">
+            <div class="row justify-content-center">
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/headphones.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">Audio</h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.1s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/smoking-room.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">Smoking Room</h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.2s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/air-conditioner.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">Air Conditioner</h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.25s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/smart-tv.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">TV LED 32"</h6>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.3s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/charger.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">USB Charger</h6>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.35s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/toilet.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">Toilet</h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.4s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/wifi.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">WIFI</h6>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.43s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/bedding.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">Bantal Selimut</h6>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4 mb-4 wow animate__animated animate__bounceIn" style="animation-delay: calc(0.45s * 2);">
+                <div class="card h-100 shadow px-4 px-md-2 px-lg-3 card-span pt-4 pausi-fa">
+                  <div class="text-center card-hover"><img class="ps-3 icons" src="assets/img/icons/water-dispenser.png"
+                      height="60" alt="services" />
+                    <div class="card-body">
+                      <h6 class="fw-light fs-1 heading-color">Dispenser</h6>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- end of .container-->
+    </section>
+</template>
+<script>
+export default {
+    name: 'PFasilitas',
+    mounted() {
+      // get url path
+      const path = this.$route.path;
+      if (path !== '/') {
+        document.getElementById('fasilitas').style.setProperty("margin-top", "90px", "important")
+      }
+    }
+}
+</script>
